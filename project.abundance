@@ -93,8 +93,8 @@
     },
     {
       "atomType": "CutLayout",
-      "x": 0.6968911917098446,
-      "y": 0.2701863354037267,
+      "x": 0.7012089810017271,
+      "y": 0.2670807453416149,
       "uniqueID": "id-1586",
       "name": "Cut Layout",
       "ioValues": [
@@ -326,8 +326,8 @@
     },
     {
       "atomType": "Gcode",
-      "x": 0.8195164075993092,
-      "y": 0.24844720496894407,
+      "x": 0.8264248704663212,
+      "y": 0.24534161490683226,
       "uniqueID": "id-1596",
       "ioValues": [
         {
@@ -337,8 +337,8 @@
         },
         {
           "name": "Passes",
-          "ioValue": 5,
-          "currentEquation": "5"
+          "ioValue": 3,
+          "currentEquation": "3"
         },
         {
           "name": "Speed",
@@ -346,7 +346,8 @@
         },
         {
           "name": "Cut Through",
-          "ioValue": 2
+          "ioValue": 2,
+          "currentEquation": "2"
         },
         {
           "name": "Part Name",
