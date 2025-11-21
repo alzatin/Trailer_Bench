@@ -93,8 +93,8 @@
     },
     {
       "atomType": "CutLayout",
-      "x": 0.7012089810017271,
-      "y": 0.2670807453416149,
+      "x": 0.7003454231433507,
+      "y": 0.2795031055900621,
       "uniqueID": "id-1586",
       "name": "Cut Layout",
       "ioValues": [
@@ -326,14 +326,13 @@
     },
     {
       "atomType": "Gcode",
-      "x": 0.8264248704663212,
-      "y": 0.24534161490683226,
+      "x": 0.8229706390328152,
+      "y": 0.27639751552795033,
       "uniqueID": "id-1596",
       "ioValues": [
         {
           "name": "Tool Size",
-          "ioValue": 6.35,
-          "currentEquation": "6.35"
+          "ioValue": 6.35
         },
         {
           "name": "Passes",
@@ -346,8 +345,7 @@
         },
         {
           "name": "Cut Through",
-          "ioValue": 2,
-          "currentEquation": "2"
+          "ioValue": 2
         },
         {
           "name": "Part Name",
