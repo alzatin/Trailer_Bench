@@ -21,7 +21,7 @@
     {
       "atomType": "Input",
       "x": 0.0264,
-      "y": 0.42857142857142855,
+      "y": 0.16,
       "uniqueID": "7d02a016-b23a-48f8-bb8c-5bae50d25822",
       "name": "Wood Thickness",
       "type": "number"
@@ -332,11 +332,13 @@
       "ioValues": [
         {
           "name": "Tool Size",
-          "ioValue": 6.35
+          "ioValue": 6.35,
+          "currentEquation": "6.35"
         },
         {
           "name": "Passes",
-          "ioValue": 3
+          "ioValue": 4,
+          "currentEquation": "4"
         },
         {
           "name": "Speed",
@@ -377,7 +379,7 @@
         {
           "atomType": "Input",
           "x": 0.0264,
-          "y": 0.39751552795031053,
+          "y": 0.16,
           "uniqueID": "f3f69833-92d0-4f38-99bf-6e050ecb6922",
           "name": "Wood Thickness",
           "type": "number"
