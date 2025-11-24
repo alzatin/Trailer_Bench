@@ -8,10 +8,6 @@
     {
       "name": "Wood Thickness",
       "ioValue": 18
-    },
-    {
-      "name": "wood_type",
-      "ioValue": 10
     }
   ],
   "topLevel": true,
@@ -32,8 +28,8 @@
     },
     {
       "atomType": "ExtractTag",
-      "x": 0.4477513227513228,
-      "y": 0.18384401114206128,
+      "x": 0.47668393782383417,
+      "y": 0.35714285714285715,
       "uniqueID": "id-522",
       "name": "Extract Tag",
       "tag": "Thick",
@@ -97,8 +93,8 @@
     },
     {
       "atomType": "CutLayout",
-      "x": 0.7003454231433507,
-      "y": 0.2795031055900621,
+      "x": 0.6088082901554405,
+      "y": 0.20496894409937888,
       "uniqueID": "id-1586",
       "name": "Cut Layout",
       "ioValues": [
@@ -4235,14 +4231,6 @@
         }
       ],
       "fileTypeVersion": 1
-    },
-    {
-      "atomType": "Input",
-      "x": 0.0264,
-      "y": 0.5031055900621119,
-      "uniqueID": "id-2175",
-      "name": "wood_type",
-      "type": "number"
     }
   ],
   "allConnectors": [
