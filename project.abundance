@@ -332,13 +332,11 @@
       "ioValues": [
         {
           "name": "Tool Size",
-          "ioValue": 6.35,
-          "currentEquation": "6.35"
+          "ioValue": 6.35
         },
         {
           "name": "Passes",
-          "ioValue": 2,
-          "currentEquation": "2"
+          "ioValue": 2
         },
         {
           "name": "Speed",
