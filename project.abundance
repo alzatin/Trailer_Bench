@@ -326,8 +326,8 @@
     },
     {
       "atomType": "Gcode",
-      "x": 0.8221070811744388,
-      "y": 0.24223602484472048,
+      "x": 0.810880829015544,
+      "y": 0.2391304347826087,
       "uniqueID": "id-1596",
       "ioValues": [
         {
@@ -341,11 +341,13 @@
         },
         {
           "name": "Speed",
-          "ioValue": 1500
+          "ioValue": 1500,
+          "currentEquation": "1500"
         },
         {
           "name": "Cut Through",
-          "ioValue": 2
+          "ioValue": 2,
+          "currentEquation": "2"
         },
         {
           "name": "Part Name",
