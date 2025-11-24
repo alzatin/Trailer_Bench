@@ -8,6 +8,10 @@
     {
       "name": "Wood Thickness",
       "ioValue": 18
+    },
+    {
+      "name": "wood_type",
+      "ioValue": 10
     }
   ],
   "topLevel": true,
@@ -4231,6 +4235,14 @@
         }
       ],
       "fileTypeVersion": 1
+    },
+    {
+      "atomType": "Input",
+      "x": 0.0264,
+      "y": 0.5031055900621119,
+      "uniqueID": "id-2175",
+      "name": "wood_type",
+      "type": "number"
     }
   ],
   "allConnectors": [
