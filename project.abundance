@@ -336,18 +336,16 @@
         },
         {
           "name": "Passes",
-          "ioValue": 3,
-          "currentEquation": "3"
+          "ioValue": 2,
+          "currentEquation": "2"
         },
         {
           "name": "Speed",
-          "ioValue": 1500,
-          "currentEquation": "1500"
+          "ioValue": 1500
         },
         {
           "name": "Cut Through",
-          "ioValue": 2,
-          "currentEquation": "2"
+          "ioValue": 2
         },
         {
           "name": "Part Name",
