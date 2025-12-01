@@ -326,17 +326,19 @@
     },
     {
       "atomType": "Gcode",
-      "x": 0.8194444444444444,
-      "y": 0.25069637883008355,
+      "x": 0.8248175182481751,
+      "y": 0.2391304347826087,
       "uniqueID": "id-1596",
       "ioValues": [
         {
           "name": "Tool Size",
-          "ioValue": 6.35
+          "ioValue": 8,
+          "currentEquation": "8"
         },
         {
           "name": "Passes",
-          "ioValue": 2
+          "ioValue": 2,
+          "currentEquation": "2"
         },
         {
           "name": "Speed",
@@ -392,8 +394,8 @@
     },
     {
       "atomType": "CutLayout",
-      "x": 0.5582010582010581,
-      "y": 0.6545961002785515,
+      "x": 0.5583941605839415,
+      "y": 0.6739130434782609,
       "uniqueID": "id-2749",
       "name": "Cut Layout",
       "ioValues": [
