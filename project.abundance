@@ -34,8 +34,8 @@
     },
     {
       "atomType": "ExtractTag",
-      "x": 0.5076628352490421,
-      "y": 0.35240963855421686,
+      "x": 0.5346801346801346,
+      "y": 0.6114457831325302,
       "uniqueID": "id-522",
       "name": "Extract Tag",
       "ioValues": [
@@ -49,8 +49,8 @@
     },
     {
       "atomType": "Rotate",
-      "x": 0.32972241029113064,
-      "y": 0.7164179104477613,
+      "x": 0.31851851851851853,
+      "y": 0.6656626506024096,
       "uniqueID": "id-1045",
       "ioValues": [
         {
@@ -63,7 +63,7 @@
         },
         {
           "name": "y-axis degrees",
-          "ioValue": 0
+          "ioValue": 1
         },
         {
           "name": "z-axis degrees",
@@ -73,8 +73,8 @@
     },
     {
       "atomType": "Move",
-      "x": 0.41773865944482064,
-      "y": 0.7223880597014926,
+      "x": 0.41750841750841755,
+      "y": 0.7259036144578314,
       "uniqueID": "id-1046",
       "ioValues": [
         {
@@ -97,8 +97,8 @@
     },
     {
       "atomType": "Assembly",
-      "x": 0.3981042654028436,
-      "y": 0.26567164179104474,
+      "x": 0.49023569023569025,
+      "y": 0.40963855421686746,
       "uniqueID": "id-1579",
       "ioValues": [
         {
@@ -113,8 +113,8 @@
     },
     {
       "atomType": "CutLayout",
-      "x": 0.6810344827586207,
-      "y": 0.21385542168674698,
+      "x": 0.6303030303030304,
+      "y": 0.21084337349397592,
       "uniqueID": "id-1586",
       "name": "Cut Layout",
       "ioValues": [
@@ -124,7 +124,8 @@
         },
         {
           "name": "Sheet Width",
-          "ioValue": 0
+          "ioValue": 1200,
+          "currentEquation": "1200"
         },
         {
           "name": "Sheet Height",
@@ -142,195 +143,163 @@
       "placements": [
         [
           {
-            "id": 7,
-            "rotate": 0,
-            "translate": {
-              "x": -950,
-              "y": 500
-            }
-          },
-          {
-            "id": 5,
-            "rotate": 180,
-            "translate": {
-              "x": -950,
-              "y": 430
-            }
-          },
-          {
-            "id": 15,
-            "rotate": 180,
-            "translate": {
-              "x": -950,
-              "y": 290
-            }
-          },
-          {
-            "id": 3,
-            "rotate": 180,
-            "translate": {
-              "x": -950,
-              "y": 220
-            }
-          },
-          {
-            "id": 19,
-            "rotate": 180,
-            "translate": {
-              "x": -950,
-              "y": 80
-            }
-          },
-          {
-            "id": 23,
-            "rotate": 0,
-            "translate": {
-              "x": -950,
-              "y": 10
-            }
-          },
-          {
-            "id": 21,
+            "id": 0,
             "rotate": 90,
             "translate": {
-              "x": -950,
-              "y": -130
+              "x": 209.37074539343965,
+              "y": 67.70000000000005
             }
           },
           {
             "id": 1,
-            "rotate": 0,
+            "rotate": 150,
             "translate": {
-              "x": -60,
-              "y": 500
+              "x": 225.88472957336464,
+              "y": 219.2871297897878
             }
           },
           {
-            "id": 17,
+            "id": 4,
+            "rotate": 210,
+            "translate": {
+              "x": 184.793028723494,
+              "y": 374.2699248163658
+            }
+          },
+          {
+            "id": 5,
+            "rotate": 330,
+            "translate": {
+              "x": 188.38472952829866,
+              "y": 550.0865411602122
+            }
+          },
+          {
+            "id": 6,
+            "rotate": 270,
+            "translate": {
+              "x": 208.5012702,
+              "y": 735.2557332
+            }
+          },
+          {
+            "id": 3,
             "rotate": 0,
             "translate": {
-              "x": -950,
-              "y": -200
+              "x": 223.50127020000002,
+              "y": 867.0202306000001
+            }
+          },
+          {
+            "id": 7,
+            "rotate": 240,
+            "translate": {
+              "x": 410.70986206021223,
+              "y": 492.82266557170135
+            }
+          },
+          {
+            "id": 2,
+            "rotate": 150,
+            "translate": {
+              "x": 438.9168336917281,
+              "y": 724.280162447547
+            }
+          },
+          {
+            "id": 8,
+            "rotate": 0,
+            "translate": {
+              "x": 465.20198699411526,
+              "y": 210.0888697463669
+            }
+          },
+          {
+            "id": 11,
+            "rotate": 0,
+            "translate": {
+              "x": 223.50127019999996,
+              "y": 1002.4202306000002
+            }
+          },
+          {
+            "id": 10,
+            "rotate": 270,
+            "translate": {
+              "x": 209.3707454,
+              "y": 1137.7173406000002
+            }
+          },
+          {
+            "id": 12,
+            "rotate": 270,
+            "translate": {
+              "x": 600.454352,
+              "y": 1062.5490705
+            }
+          },
+          {
+            "id": 14,
+            "rotate": 60,
+            "translate": {
+              "x": 643.6330803580477,
+              "y": 343.85498115633436
             }
           },
           {
             "id": 9,
             "rotate": 0,
             "translate": {
-              "x": -950,
-              "y": -350
-            }
-          },
-          {
-            "id": 11,
-            "rotate": 180,
-            "translate": {
-              "x": -950,
-              "y": -420
-            }
-          },
-          {
-            "id": 4,
-            "rotate": -90,
-            "translate": {
-              "x": -500,
-              "y": 500
+              "x": 652.8661121892217,
+              "y": 901.1940463052455
             }
           },
           {
             "id": 13,
             "rotate": 0,
             "translate": {
-              "x": -60,
-              "y": 160
-            }
-          },
-          {
-            "id": 14,
-            "rotate": -90,
-            "translate": {
-              "x": -500,
-              "y": 430
-            }
-          },
-          {
-            "id": 20,
-            "rotate": 90,
-            "translate": {
-              "x": -500,
-              "y": 280
-            }
-          },
-          {
-            "id": 12,
-            "rotate": -90,
-            "translate": {
-              "x": -500,
-              "y": 210
+              "x": 729.143862510778,
+              "y": 532.69226462434
             }
           },
           {
             "id": 16,
             "rotate": 90,
             "translate": {
-              "x": -500,
-              "y": 70
+              "x": 626.3732858000001,
+              "y": 1122.8461805
+            }
+          },
+          {
+            "id": 15,
+            "rotate": 150,
+            "translate": {
+              "x": 721.286716525766,
+              "y": 142.79398824226044
+            }
+          },
+          {
+            "id": 17,
+            "rotate": 330,
+            "translate": {
+              "x": 758.8330243328244,
+              "y": 694.2497737650243
+            }
+          },
+          {
+            "id": 19,
+            "rotate": 300,
+            "translate": {
+              "x": 911.8621591566373,
+              "y": 276.8551334031661
             }
           },
           {
             "id": 18,
-            "rotate": -90,
+            "rotate": 210,
             "translate": {
-              "x": -500,
-              "y": 0
-            }
-          },
-          {
-            "id": 6,
-            "rotate": -90,
-            "translate": {
-              "x": -500,
-              "y": -140
-            }
-          },
-          {
-            "id": 0,
-            "rotate": 90,
-            "translate": {
-              "x": -500,
-              "y": -200
-            }
-          },
-          {
-            "id": 8,
-            "rotate": -90,
-            "translate": {
-              "x": -500,
-              "y": -340
-            }
-          },
-          {
-            "id": 10,
-            "rotate": -90,
-            "translate": {
-              "x": -60,
-              "y": 410
-            }
-          },
-          {
-            "id": 22,
-            "rotate": -90,
-            "translate": {
-              "x": -60,
-              "y": 250
-            }
-          },
-          {
-            "id": 2,
-            "rotate": 90,
-            "translate": {
-              "x": -500,
-              "y": -400
+              "x": 895.2684378908712,
+              "y": 651.1479083024385
             }
           }
         ]
@@ -401,8 +370,8 @@
     },
     {
       "atomType": "Move",
-      "x": 0.6839080459770115,
-      "y": 0.8072289156626505,
+      "x": 0.7144781144781145,
+      "y": 0.8584337349397589,
       "uniqueID": "id-2180",
       "ioValues": [
         {
@@ -425,8 +394,8 @@
     },
     {
       "atomType": "CutLayout",
-      "x": 0.6161137440758294,
-      "y": 0.5791044776119403,
+      "x": 0.665993265993266,
+      "y": 0.5903614457831325,
       "uniqueID": "id-2749",
       "name": "Cut Layout",
       "ioValues": [
@@ -997,10 +966,6 @@
                 {
                   "name": "distZ",
                   "ioValue": 0
-                },
-                {
-                  "name": "Shape",
-                  "ioValue": "__GEOMETRY_INPUT__"
                 }
               ],
               "codeVersion": 1,
@@ -2636,8 +2601,8 @@
     },
     {
       "atomType": "Molecule",
-      "x": 0.19775132275132273,
-      "y": 0.777158774373259,
+      "x": 0.2518518518518518,
+      "y": 0.5512048192771084,
       "uniqueID": "80a1f3c8-ccb7-4388-b3d5-4aae5eb7f8de",
       "name": "Add Middle Bits",
       "ioValues": [
@@ -2944,10 +2909,6 @@
                 {
                   "name": "distZ",
                   "ioValue": 0
-                },
-                {
-                  "name": "Shape",
-                  "ioValue": "__GEOMETRY_INPUT__"
                 }
               ],
               "codeVersion": 1,
@@ -3013,10 +2974,6 @@
                 {
                   "name": "distZ",
                   "ioValue": 0
-                },
-                {
-                  "name": "Shape",
-                  "ioValue": "__GEOMETRY_INPUT__"
                 }
               ],
               "codeVersion": 1,
@@ -3970,28 +3927,6 @@
                       "x": 0.4901746724890829,
                       "y": 0.7515151515151516,
                       "uniqueID": "61e8f783-927d-4ede-8c6a-131cf121805a",
-                      "ioValues": [
-                        {
-                          "name": "Shape",
-                          "ioValue": "__GEOMETRY_INPUT__"
-                        },
-                        {
-                          "name": "Number",
-                          "ioValue": "__GEOMETRY_INPUT__"
-                        },
-                        {
-                          "name": "distX",
-                          "ioValue": "__GEOMETRY_INPUT__"
-                        },
-                        {
-                          "name": "distY",
-                          "ioValue": "__GEOMETRY_INPUT__"
-                        },
-                        {
-                          "name": "distZ",
-                          "ioValue": "__GEOMETRY_INPUT__"
-                        }
-                      ],
                       "codeVersion": 1,
                       "code": "//Inputs:[Shape, Number, distX, distY, distZ];\n\n\nlet shapesArray = [];\nfor (let i = 0; i < Number; i++) {\n    let rotatedShape = await Move(Shape, distX * i, distY * i,distZ * i);\n    shapesArray.push(rotatedShape);\n}\n\nlet assembledShape = await Assembly(shapesArray)\n\nreturn assembledShape;\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n    /**\n    To Use the Code Atom, enter your inputs to the input list a.e Inputs:[shape, height]\n    If your input is connected to another atom with a replicad geometry you can access its geometry by looking up its ID in your library. a.e library[Input1].geometry[0] \n    Use any replicad available methods to modify your geometry. Learn more about all of the available methods at \n    https://replicad.xyz/docs/introapp/UserGuide.html \n    Return a replicad object that includes geometry, color, tags and plane. \n\n\n    Example Code Atom:\n\n      Inputs:[shape, x];\n\n      let finalShape = library[shape].geometry[0].clone.translate[x,0,0]\n\n      return {geometry: finalShape, color: library[shape].color, plane: library[shape].plane, tags: library[shape].tags }\n\n      - See more examples at _______ \n\n\n    */\n"
                     },
@@ -4055,10 +3990,6 @@
                         {
                           "name": "distZ",
                           "ioValue": 0
-                        },
-                        {
-                          "name": "Shape",
-                          "ioValue": "__GEOMETRY_INPUT__"
                         }
                       ],
                       "codeVersion": 1,
@@ -4222,28 +4153,6 @@
                       "x": 0.4901746724890829,
                       "y": 0.7515151515151516,
                       "uniqueID": "37f0d9b2-ffbf-44a0-a1e2-53c491e2c351",
-                      "ioValues": [
-                        {
-                          "name": "Shape",
-                          "ioValue": "__GEOMETRY_INPUT__"
-                        },
-                        {
-                          "name": "Number",
-                          "ioValue": "__GEOMETRY_INPUT__"
-                        },
-                        {
-                          "name": "distX",
-                          "ioValue": "__GEOMETRY_INPUT__"
-                        },
-                        {
-                          "name": "distY",
-                          "ioValue": "__GEOMETRY_INPUT__"
-                        },
-                        {
-                          "name": "distZ",
-                          "ioValue": "__GEOMETRY_INPUT__"
-                        }
-                      ],
                       "codeVersion": 1,
                       "code": "//Inputs:[Shape, Number, distX, distY, distZ];\n\n\nlet shapesArray = [];\nfor (let i = 0; i < Number; i++) {\n    let rotatedShape = await Move(Shape, distX * i, distY * i,distZ * i);\n    shapesArray.push(rotatedShape);\n}\n\nlet assembledShape = await Assembly(shapesArray)\n\nreturn assembledShape;\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n    /**\n    To Use the Code Atom, enter your inputs to the input list a.e Inputs:[shape, height]\n    If your input is connected to another atom with a replicad geometry you can access its geometry by looking up its ID in your library. a.e library[Input1].geometry[0] \n    Use any replicad available methods to modify your geometry. Learn more about all of the available methods at \n    https://replicad.xyz/docs/introapp/UserGuide.html \n    Return a replicad object that includes geometry, color, tags and plane. \n\n\n    Example Code Atom:\n\n      Inputs:[shape, x];\n\n      let finalShape = library[shape].geometry[0].clone.translate[x,0,0]\n\n      return {geometry: finalShape, color: library[shape].color, plane: library[shape].plane, tags: library[shape].tags }\n\n      - See more examples at _______ \n\n\n    */\n"
                     },
@@ -4307,10 +4216,6 @@
                         {
                           "name": "distZ",
                           "ioValue": 0
-                        },
-                        {
-                          "name": "Shape",
-                          "ioValue": "__GEOMETRY_INPUT__"
                         }
                       ],
                       "codeVersion": 1,
@@ -4474,28 +4379,6 @@
                       "x": 0.4901746724890829,
                       "y": 0.7515151515151516,
                       "uniqueID": "16996df2-b4c7-4638-a836-6cb2bc67ba10",
-                      "ioValues": [
-                        {
-                          "name": "Shape",
-                          "ioValue": "__GEOMETRY_INPUT__"
-                        },
-                        {
-                          "name": "Number",
-                          "ioValue": "__GEOMETRY_INPUT__"
-                        },
-                        {
-                          "name": "distX",
-                          "ioValue": "__GEOMETRY_INPUT__"
-                        },
-                        {
-                          "name": "distY",
-                          "ioValue": "__GEOMETRY_INPUT__"
-                        },
-                        {
-                          "name": "distZ",
-                          "ioValue": "__GEOMETRY_INPUT__"
-                        }
-                      ],
                       "codeVersion": 1,
                       "code": "//Inputs:[Shape, Number, distX, distY, distZ];\n\n\nlet shapesArray = [];\nfor (let i = 0; i < Number; i++) {\n    let rotatedShape = await Move(Shape, distX * i, distY * i,distZ * i);\n    shapesArray.push(rotatedShape);\n}\n\nlet assembledShape = await Assembly(shapesArray)\n\nreturn assembledShape;\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n    /**\n    To Use the Code Atom, enter your inputs to the input list a.e Inputs:[shape, height]\n    If your input is connected to another atom with a replicad geometry you can access its geometry by looking up its ID in your library. a.e library[Input1].geometry[0] \n    Use any replicad available methods to modify your geometry. Learn more about all of the available methods at \n    https://replicad.xyz/docs/introapp/UserGuide.html \n    Return a replicad object that includes geometry, color, tags and plane. \n\n\n    Example Code Atom:\n\n      Inputs:[shape, x];\n\n      let finalShape = library[shape].geometry[0].clone.translate[x,0,0]\n\n      return {geometry: finalShape, color: library[shape].color, plane: library[shape].plane, tags: library[shape].tags }\n\n      - See more examples at _______ \n\n\n    */\n"
                     },
@@ -4559,10 +4442,6 @@
                         {
                           "name": "distZ",
                           "ioValue": 0
-                        },
-                        {
-                          "name": "Shape",
-                          "ioValue": "__GEOMETRY_INPUT__"
                         }
                       ],
                       "codeVersion": 1,
