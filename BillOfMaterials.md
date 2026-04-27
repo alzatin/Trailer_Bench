@@ -2,5 +2,4 @@
 # Bill Of Materials 
  |Part|Number Needed|Price|Source| 
  |----|----------|-----|-----|
-|1x3x6' Plank|26|$0.00||
-|Total: |26|$0.00| |
+|Total: |0|$0.00| |
