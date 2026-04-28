@@ -49,8 +49,8 @@
     },
     {
       "atomType": "Rotate",
-      "x": 0.30753968253968256,
-      "y": 0.8885793871866295,
+      "x": 0.2927335640138408,
+      "y": 0.798780487804878,
       "uniqueID": "id-1045",
       "ioValues": [
         {
@@ -97,8 +97,8 @@
     },
     {
       "atomType": "Assembly",
-      "x": 0.4074074074074074,
-      "y": 0.3259052924791086,
+      "x": 0.3349480968858132,
+      "y": 0.3292682926829268,
       "uniqueID": "id-1579",
       "ioValues": [
         {
@@ -602,8 +602,8 @@
     },
     {
       "atomType": "Molecule",
-      "x": 0.20981132075471698,
-      "y": 0.20689655172413796,
+      "x": 0.1709342560553633,
+      "y": 0.2896341463414634,
       "uniqueID": "89c1dfb7-91ea-4e6c-b8a5-f184c4298a59",
       "name": "Vertical Parts",
       "ioValues": [
@@ -660,8 +660,8 @@
         },
         {
           "atomType": "Move",
-          "x": 0.7863756613756614,
-          "y": 0.7632311977715878,
+          "x": 0.7792387543252596,
+          "y": 0.7652439024390244,
           "uniqueID": "44a80d54-1ed8-4551-b8b0-1a803e456742",
           "ioValues": [
             {
@@ -684,8 +684,8 @@
         },
         {
           "atomType": "Assembly",
-          "x": 0.9027777777777777,
-          "y": 0.26740947075208915,
+          "x": 0.9079584775086506,
+          "y": 0.27743902439024387,
           "uniqueID": "91ab4a8f-f360-4163-b447-f2d91d5c8209",
           "ioValues": [
             {
@@ -700,8 +700,8 @@
         },
         {
           "atomType": "Move",
-          "x": 0.29034391534391535,
-          "y": 0.403899721448468,
+          "x": 0.2948096885813149,
+          "y": 0.44817073170731714,
           "uniqueID": "49f4d4f4-72b2-4938-bf81-4bb378b2cef3",
           "ioValues": [
             {
@@ -710,7 +710,7 @@
             },
             {
               "name": "xDist",
-              "ioValue": 0
+              "ioValue": 1
             },
             {
               "name": "yDist",
@@ -981,10 +981,6 @@
                 {
                   "name": "distZ",
                   "ioValue": 0
-                },
-                {
-                  "name": "Shape",
-                  "ioValue": "__GEOMETRY_INPUT__"
                 }
               ],
               "codeVersion": 1,
@@ -1074,8 +1070,8 @@
         },
         {
           "atomType": "Molecule",
-          "x": 0.17724867724867727,
-          "y": 0.6072423398328691,
+          "x": 0.17923875432525951,
+          "y": 0.6067073170731707,
           "uniqueID": "be91b5a8-1dad-4710-a92e-be909edd391a",
           "name": "Vertical",
           "ioValues": [
@@ -2620,8 +2616,8 @@
     },
     {
       "atomType": "Molecule",
-      "x": 0.19814814814814816,
-      "y": 0.7896341463414634,
+      "x": 0.21314878892733563,
+      "y": 0.625,
       "uniqueID": "80a1f3c8-ccb7-4388-b3d5-4aae5eb7f8de",
       "name": "Add Middle Bits",
       "ioValues": [
@@ -2997,6 +2993,10 @@
                 {
                   "name": "distZ",
                   "ioValue": 0
+                },
+                {
+                  "name": "Shape",
+                  "ioValue": "__GEOMETRY_INPUT__"
                 }
               ],
               "codeVersion": 1,
@@ -4153,6 +4153,10 @@
                         {
                           "name": "distZ",
                           "ioValue": 0
+                        },
+                        {
+                          "name": "Shape",
+                          "ioValue": "__GEOMETRY_INPUT__"
                         }
                       ],
                       "codeVersion": 1,
@@ -4409,6 +4413,10 @@
                         {
                           "name": "distZ",
                           "ioValue": 0
+                        },
+                        {
+                          "name": "Shape",
+                          "ioValue": "__GEOMETRY_INPUT__"
                         }
                       ],
                       "codeVersion": 1,
@@ -4665,6 +4673,10 @@
                         {
                           "name": "distZ",
                           "ioValue": 0
+                        },
+                        {
+                          "name": "Shape",
+                          "ioValue": "__GEOMETRY_INPUT__"
                         }
                       ],
                       "codeVersion": 1,
