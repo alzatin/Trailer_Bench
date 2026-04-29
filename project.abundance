@@ -373,8 +373,8 @@
     },
     {
       "atomType": "Assembly",
-      "x": 0.7731481481481481,
-      "y": 0.766016713091922,
+      "x": 0.8413021363173957,
+      "y": 0.6707317073170731,
       "uniqueID": "id-2175",
       "ioValues": [
         {
@@ -385,8 +385,8 @@
     },
     {
       "atomType": "Move",
-      "x": 0.6421957671957672,
-      "y": 0.7688022284122563,
+      "x": 0.7049847405900306,
+      "y": 0.6585365853658536,
       "uniqueID": "id-2180",
       "ioValues": [
         {
@@ -602,8 +602,8 @@
     },
     {
       "atomType": "Molecule",
-      "x": 0.1709342560553633,
-      "y": 0.2896341463414634,
+      "x": 0.1607324516785351,
+      "y": 0.3201219512195122,
       "uniqueID": "89c1dfb7-91ea-4e6c-b8a5-f184c4298a59",
       "name": "Vertical Parts",
       "ioValues": [
@@ -804,8 +804,8 @@
         },
         {
           "atomType": "CutLayout",
-          "x": 0.4497354497354497,
-          "y": 0.713091922005571,
+          "x": 0.503560528992879,
+          "y": 0.5914634146341463,
           "uniqueID": "id-1609",
           "name": "Cut Layout",
           "ioValues": [
@@ -853,8 +853,8 @@
         },
         {
           "atomType": "Gcode",
-          "x": 0.544973544973545,
-          "y": 0.8662952646239555,
+          "x": 0.54323499491353,
+          "y": 0.8658536585365854,
           "uniqueID": "id-1615",
           "ioValues": [
             {
@@ -981,10 +981,6 @@
                 {
                   "name": "distZ",
                   "ioValue": 0
-                },
-                {
-                  "name": "Shape",
-                  "ioValue": "__GEOMETRY_INPUT__"
                 }
               ],
               "codeVersion": 1,
@@ -1074,8 +1070,8 @@
         },
         {
           "atomType": "Molecule",
-          "x": 0.17923875432525951,
-          "y": 0.6067073170731707,
+          "x": 0.16480162767039674,
+          "y": 0.47865853658536583,
           "uniqueID": "be91b5a8-1dad-4710-a92e-be909edd391a",
           "name": "Vertical",
           "ioValues": [
@@ -2620,7 +2616,7 @@
     },
     {
       "atomType": "Molecule",
-      "x": 0.21314878892733563,
+      "x": 0.22278738555442523,
       "y": 0.625,
       "uniqueID": "80a1f3c8-ccb7-4388-b3d5-4aae5eb7f8de",
       "name": "Add Middle Bits",
@@ -2997,6 +2993,10 @@
                 {
                   "name": "distZ",
                   "ioValue": 0
+                },
+                {
+                  "name": "Shape",
+                  "ioValue": "__GEOMETRY_INPUT__"
                 }
               ],
               "codeVersion": 1,
@@ -4153,6 +4153,10 @@
                         {
                           "name": "distZ",
                           "ioValue": 0
+                        },
+                        {
+                          "name": "Shape",
+                          "ioValue": "__GEOMETRY_INPUT__"
                         }
                       ],
                       "codeVersion": 1,
@@ -4409,6 +4413,10 @@
                         {
                           "name": "distZ",
                           "ioValue": 0
+                        },
+                        {
+                          "name": "Shape",
+                          "ioValue": "__GEOMETRY_INPUT__"
                         }
                       ],
                       "codeVersion": 1,
@@ -4665,6 +4673,10 @@
                         {
                           "name": "distZ",
                           "ioValue": 0
+                        },
+                        {
+                          "name": "Shape",
+                          "ioValue": "__GEOMETRY_INPUT__"
                         }
                       ],
                       "codeVersion": 1,
